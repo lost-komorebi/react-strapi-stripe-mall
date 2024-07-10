@@ -27,25 +27,25 @@ Here are some screenshots showcasing the e-commerce application:
 *Homepage*
 
 <p align="center">
-  <img width="500" src="./sreenshots/homepage.png">
+  <img width="500" src="./shop/sreenshots/homepage.png">
 </p>
 
 *Category page*
 
 <p align="center">
-  <img width="500" src="./sreenshots/category_page.png">
+  <img width="500" src="./shop/sreenshots/category_page.png">
 </p>
 
 *Product detail with shopping cart*
 
 <p align="center">
-  <img width="500" src="./sreenshots/product_detail_with_cart.png">
+  <img width="500" src="./shop/sreenshots/product_detail_with_cart.png">
 </p>
 
 *Checkout page*
 
 <p align="center">
-  <img width="500" src="./sreenshots/checkout.png">
+  <img width="500" src="./shop/sreenshots/checkout.png">
 </p>
 
 ## YouTube Tutorial
